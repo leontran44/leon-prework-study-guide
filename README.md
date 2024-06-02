@@ -26,7 +26,7 @@ I also enhanced my knowledge of these concepts by putting all of these concepts 
 - [Credits](#credits)
 - [License](#license)
 
-![prework screenshot](assets/result.png)
+![prework screenshot](assets/result.PNG)
 
 ## Usage
 
